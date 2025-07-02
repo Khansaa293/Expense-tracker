@@ -6,7 +6,7 @@ This project helps users to track their daily expenses easily using a Python scr
 ## Key Features:
 - Add new expenses with amount and description.
 - View the total of all expenses.
-- Delete expenses easily from the list.
+- Delete expenses easily .
 - Simple text-based interface for easy use.
 
 ## Technologies Used:
@@ -32,5 +32,5 @@ This project helps users to track their daily expenses easily using a Python scr
 - Razaz seedahmed (Razaz12)
 
 ## Contact:
-esoojamal2001@gmail.com
+Gamelanubi2@gmail.com
 Razazseedahmed1999@gmail.com
