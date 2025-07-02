@@ -20,7 +20,7 @@ This project helps users to track their daily expenses easily using a Python scr
    ```
 3. Navigate to the project folder:
    ```
-   cd Simple-Expense-Tracker
+   cd Expense-tracker
    ```
 4. Run the script:
    ```
